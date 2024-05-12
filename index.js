@@ -6,7 +6,7 @@ const menu = {
     'eng': require('./keyboard/eng')
 }
 
-const BOT_TOKEN = "";
+const BOT_TOKEN = "YOUR_BOT_TOKEN";
 
 const bot = new Telegraf(BOT_TOKEN);
 
