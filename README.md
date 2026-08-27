@@ -6,6 +6,8 @@ Foydalanuvchi o'ziga qulay tilni tanlaydi (o'zbek, rus, ingliz), profilini to'ld
 
 ---
 
+**Sahifa:** [abduazizbobomalikovnode.github.io/BearPartner_bot_js/](https://abduazizbobomalikovnode.github.io/BearPartner_bot_js/)
+
 ## Nima qiladi
 
 - **Til tanlash** — o'zbek, rus va ingliz; menyu to'liq tanlangan tilda
