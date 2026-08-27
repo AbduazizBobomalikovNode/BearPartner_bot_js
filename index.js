@@ -1,3 +1,4 @@
+require('dotenv').config();
 const { Telegraf, Scenes, session } = require("telegraf");
 const fs = require('fs');
 const menu = {
@@ -6,7 +7,8 @@ const menu = {
     'eng': require('./keyboard/eng')
 }
 
-const BOT_TOKEN = "YOUR_BOT_TOKEN";
+const BOT_TOKEN = process.env.BOT_TOKEN;
+if (!BOT_TOKEN) throw new Error("BOT_TOKEN environment o'zgaruvchisi berilmagan");
 
 const bot = new Telegraf(BOT_TOKEN);
 
