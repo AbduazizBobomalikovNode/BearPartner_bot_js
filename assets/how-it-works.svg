@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" role="img" aria-labelledby="ttl" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<title id="ttl">BearPartner Bot qanday ishlaydi: til tanlanadi, menyudan ma'lumot olinadi, ariza va hujjatlar admin guruhiga boradi</title>
+<style>
+.t{fill:#e6edf3;font-size:14px;font-weight:600}
+.s{fill:#8b949e;font-size:11px}
+.n{fill:#58a6ff;font-size:11px;font-weight:700;letter-spacing:1px}
+.c{fill:#c9d1d9;font-size:10.5px}
+.k{fill:#e6edf3;font-size:10.5px;text-anchor:middle}
+.box{fill:#161b22;stroke:#30363d;stroke-width:1.5}
+.bub{fill:#21262d}
+.key{fill:#30363d}
+.wire{stroke:#30363d;stroke-width:2;fill:none;stroke-dasharray:3 6;animation:flow 1s linear infinite}
+.dot{fill:#58a6ff;opacity:0;filter:drop-shadow(0 0 5px #58a6ff)}
+.lang{animation:s4 14s infinite}.ok{animation:s16 14s infinite}.kb{animation:s20 14s infinite}
+.m1{animation:s62 14s infinite}.m2{animation:s82 14s infinite}
+.lg{animation:lg 14s infinite}
+.k1{animation:k1 14s infinite}.k3{animation:k3 14s infinite}.k5{animation:k5 14s infinite}
+.ga{animation:ga 14s infinite}.gb{animation:gb 14s infinite}.gc{animation:gc 14s infinite}
+@keyframes flow{to{stroke-dashoffset:-9}}
+@keyframes s4{0%,4%{opacity:0;transform:translateY(6px)}6%,97%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+@keyframes s16{0%,16%{opacity:0;transform:translateY(6px)}18%,97%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+@keyframes s20{0%,20%{opacity:0;transform:translateY(6px)}22%,97%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+@keyframes s62{0%,62%{opacity:0;transform:translateY(6px)}64%,97%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+@keyframes s82{0%,82%{opacity:0;transform:translateY(6px)}84%,97%{opacity:1;transform:translateY(0)}100%{opacity:0}}
+@keyframes lg{0%,12%{fill:#30363d}14%,97%{fill:#1f6feb}100%{fill:#30363d}}
+@keyframes k1{0%,27%,42%,100%{fill:#30363d}29%,40%{fill:#1f6feb}}
+@keyframes k3{0%,45%,60%,100%{fill:#30363d}47%,58%{fill:#1f6feb}}
+@keyframes k5{0%,65%,80%,100%{fill:#30363d}67%,78%{fill:#1f6feb}}
+@keyframes ga{0%,35%,44%,100%{stroke:#30363d;fill:#161b22}37%,42%{stroke:#58a6ff;fill:#111d2e}}
+@keyframes gb{0%,53%,62%,100%{stroke:#30363d;fill:#161b22}55%,60%{stroke:#58a6ff;fill:#111d2e}}
+@keyframes gc{0%,73%,82%,100%{stroke:#30363d;fill:#161b22}75%,80%{stroke:#58a6ff;fill:#111d2e}}
+</style>
+
+<rect width="1000" height="440" rx="16" fill="#0d1117"/>
+<text x="30" y="38" class="t" font-size="17">BearPartner Bot qanday ishlaydi</text>
+
+<!-- wires -->
+<path class="wire" d="M290 227C320 227 320 118 350 118"/>
+<path class="wire" d="M290 263C320 263 320 218 350 218"/>
+<path class="wire" d="M290 299C320 299 320 318 350 318"/>
+<path class="wire" d="M600 218H670"/>
+<path class="wire" d="M600 318H670"/>
+
+<!-- telegram chat -->
+<rect class="box" x="30" y="56" width="260" height="364" rx="22"/>
+<path d="M30 92H290" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="52" cy="74" r="9" fill="#2aabee"/>
+<path d="M47 74l10-4-3 9-2.5-3z" fill="#fff"/>
+<text class="t" x="68" y="79" font-size="12">BearPartner</text>
+<g class="lang">
+<rect class="bub" x="40" y="100" width="222" height="58" rx="10"/>
+<text class="c" x="52" y="117">Tilni tanlang · Выберите язык</text>
+<rect class="key lg" x="48" y="126" width="66" height="24" rx="6"/><text class="k" x="81" y="142">O'zbek</text>
+<rect class="key" x="118" y="126" width="66" height="24" rx="6"/><text class="k" x="151" y="142">Русский</text>
+<rect class="key" x="188" y="126" width="66" height="24" rx="6"/><text class="k" x="221" y="142">English</text>
+</g>
+<g class="ok">
+<rect class="bub" x="40" y="166" width="112" height="26" rx="10"/>
+<text class="c" x="52" y="183">Til belgilandi</text>
+</g>
+<g class="kb">
+<rect class="key k1" x="40" y="212" width="118" height="30" rx="6"/><text class="k" x="99" y="231">Bizning xizmatlar</text>
+<rect class="key" x="162" y="212" width="118" height="30" rx="6"/><text class="k" x="221" y="231">TAXI</text>
+<rect class="key k3" x="40" y="248" width="118" height="30" rx="6"/><text class="k" x="99" y="267">DOSTAVKA</text>
+<rect class="key" x="162" y="248" width="118" height="30" rx="6"/><text class="k" x="221" y="267">BONUSLAR</text>
+<rect class="key k5" x="40" y="284" width="240" height="30" rx="6"/><text class="k" x="160" y="303">Hujjat joylash</text>
+<rect class="key" x="40" y="320" width="240" height="30" rx="6"/><text class="k" x="160" y="339">Tilni almashtirish</text>
+</g>
+<rect x="42" y="382" width="236" height="26" rx="13" fill="#0d1117" stroke="#30363d"/>
+<text class="s" x="56" y="399">Xabar…</text>
+
+<!-- three kinds of request -->
+<rect class="box ga" x="350" y="80" width="250" height="76" rx="12"/>
+<text class="n" x="364" y="103">MA'LUMOT</text>
+<text class="t" x="364" y="124">Xizmatlar va bonuslar</text>
+<text class="s" x="364" y="142">maqola havolasi qaytadi</text>
+
+<rect class="box gb" x="350" y="180" width="250" height="76" rx="12"/>
+<text class="n" x="364" y="203">ARIZA</text>
+<text class="t" x="364" y="224">TAXI · DOSTAVKA</text>
+<text class="s" x="364" y="242">hamkorni o'zgartirish, savol</text>
+
+<rect class="box gc" x="350" y="280" width="250" height="76" rx="12"/>
+<text class="n" x="364" y="303">HUJJAT</text>
+<text class="t" x="364" y="324">Hujjat joylash</text>
+<text class="s" x="364" y="342">.doc .docx .pdf · 10 KB – 20 MB</text>
+
+<!-- languages -->
+<text class="n" x="670" y="92">UCH TIL</text>
+<rect x="670" y="102" width="52" height="26" rx="13" fill="#1f6feb"/><text x="696" y="119" text-anchor="middle" fill="#fff" font-size="11" font-weight="700">UZ</text>
+<rect class="key" x="730" y="102" width="52" height="26" rx="13"/><text class="k" x="756" y="119">RU</text>
+<rect class="key" x="790" y="102" width="52" height="26" rx="13"/><text class="k" x="816" y="119">EN</text>
+<text class="s" x="854" y="119">menyu shu tilda</text>
+
+<!-- admin group -->
+<rect class="box" x="670" y="150" width="300" height="220" rx="12"/>
+<path d="M670 178H970" stroke="#30363d" stroke-width="1.5"/>
+<text class="t" x="684" y="169" font-size="12">Admin guruhi</text>
+<g class="m1">
+<rect class="bub" x="682" y="188" width="276" height="74" rx="10"/>
+<text x="694" y="208" fill="#e6edf3" font-size="11" font-weight="700">for the company: GLOVO</text>
+<text class="c" x="694" y="228">Ism va familiya · elektron pochta</text>
+<text class="c" x="694" y="246">Telefon · bank hisobi</text>
+</g>
+<g class="m2">
+<rect class="bub" x="682" y="272" width="276" height="56" rx="10"/>
+<path d="M694 284h14l8 8v24a3 3 0 0 1-3 3h-19a3 3 0 0 1-3-3v-29a3 3 0 0 1 3-3z" fill="#2b7cd3"/>
+<text x="728" y="298" fill="#e6edf3" font-size="11" font-weight="700">ariza.docx</text>
+<text class="c" x="728" y="316">from: ism · @username</text>
+</g>
+
+<text x="350" y="405" fill="#3fb950" font-size="11" font-weight="700" letter-spacing="1">BITTA BOT · uch til · arizalar admin guruhiga</text>
+
+<!-- moving packets -->
+<circle r="5" class="dot"><animateMotion dur="14s" repeatCount="indefinite" calcMode="linear" path="M290 227C320 227 320 118 350 118" keyPoints="0;0;1;1" keyTimes="0;.30;.36;1"/><animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.30;.31;.35;.36;1"/></circle>
+<circle r="5" class="dot"><animateMotion dur="14s" repeatCount="indefinite" calcMode="linear" path="M290 263C320 263 320 218 350 218" keyPoints="0;0;1;1" keyTimes="0;.48;.54;1"/><animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.48;.49;.53;.54;1"/></circle>
+<circle r="5" class="dot"><animateMotion dur="14s" repeatCount="indefinite" calcMode="linear" path="M600 218H670" keyPoints="0;0;1;1" keyTimes="0;.56;.62;1"/><animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.56;.57;.61;.62;1"/></circle>
+<circle r="5" class="dot"><animateMotion dur="14s" repeatCount="indefinite" calcMode="linear" path="M290 299C320 299 320 318 350 318" keyPoints="0;0;1;1" keyTimes="0;.68;.74;1"/><animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.68;.69;.73;.74;1"/></circle>
+<circle r="5" class="dot"><animateMotion dur="14s" repeatCount="indefinite" calcMode="linear" path="M600 318H670" keyPoints="0;0;1;1" keyTimes="0;.76;.82;1"/><animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0;.76;.77;.81;.82;1"/></circle>
+</svg>
